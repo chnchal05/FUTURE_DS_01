@@ -1,25 +1,26 @@
 # Customer Churn Analysis
 
 ## Project Overview
-This project analyses customer churn patterns using the Telco Customer Churn dataset.
+An Excel-based data analytics project focused on understanding customer churn patterns using the Telco Customer Churn dataset.
 
 ## Objective
-To identify customer segments with higher churn rates and develop data-driven customer retention recommendations.
+To identify customer segments with high churn rates and develop data-driven recommendations to improve customer retention.
 
 ## Tools Used
 - Microsoft Excel
-- Excel PivotTables
-- PivotCharts
-- Slicers
-- Data Cleaning and Analysis
+- Data Cleaning
+- Excel Formulas
+- PivotTables and PivotCharts
+- Interactive Slicers
+- Data Visualization
 
-## Key Analysis
-- Overall customer churn and retention
-- Contract-wise churn
-- Payment method-wise churn
-- Tenure-wise churn
-- Internet service-wise churn
-- Average tenure comparison between churned and retained customers
+## Analysis Performed
+- Overall Customer Churn and Retention
+- Contract-wise Churn Analysis
+- Payment Method-wise Churn Analysis
+- Customer Tenure Analysis
+- Internet Service-wise Churn Analysis
+- Average Tenure Comparison
 
 ## Key Findings
 - Overall churn rate: 26.54%
@@ -28,12 +29,16 @@ To identify customer segments with higher churn rates and develop data-driven cu
 - First 12 months churn: 47.44%
 - Fiber optic churn: 41.89%
 
-## Recommendations
-- Encourage long-term contracts.
-- Improve onboarding and engagement for new customers.
+## Business Recommendations
+- Encourage customers to choose long-term contracts.
+- Improve onboarding for new customers.
 - Investigate fiber optic customer concerns.
-- Encourage convenient automatic payment methods.
+- Promote convenient automatic payment methods.
 - Identify at-risk customers early.
 
+## Project Files
+- Customer_Churn_Analysis_Final.xlsx
+- Dashboard_Screenshot.png
+
 ## Conclusion
-The analysis identifies important customer segments associated with higher churn and provides recommendations to support customer retention.
+The project identifies customer segments associated with higher churn and provides actionable recommendations to support customer retention.
